@@ -1,14 +1,18 @@
+child1 = {
+  "name" : "Emil",
+  "year" : 2004
+}
+child2 = {
+  "name" : "Tobias",
+  "year" : 2007
+}
+child3 = {
+  "name" : "Linus",
+  "year" : 2011
+}
+
 myfamily = {
-  "child1" : {
-    "name" : "Rizwan",
-    "year" : 2000
-  },
-  "child2" : {
-    "name" : "Sammo",
-    "year" : 2000
-  },
-  "child3" : {
-    "name" : "Zero",
-    "year" : 2011
-  }
+  "child1" : child1,
+  "child2" : child2,
+  "child3" : child3
 }

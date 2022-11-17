@@ -1,4 +1,4 @@
-
+#Insert a function that prints a greeting, and execute it on the p1 object:
 
 class Person:
   def __init__(self, name, age):
@@ -9,4 +9,4 @@ class Person:
     print("Hello my name is " + self.name)
 
 p1 = Person("John", 36)
-p1.myfunc() 
+p1.myfunc()
